@@ -1,0 +1,14 @@
+fastapi==0.95.1
+uvicorn==0.21.1
+sqlalchemy==1.4.36
+alembic==1.7.7
+pydantic==1.10.7
+marshmallow==3.13.0
+marshmallow-sqlalchemy==0.26.1
+fastapi-users==10.2.3
+fastapi-jwt-auth==0.5.1
+passlib[bcrypt]==1.7.4
+python-jose==3.3.0
+pytest==7.1.2
+pytest-asyncio==0.18.3
+requests==2.27.1
